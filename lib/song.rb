@@ -11,6 +11,7 @@ class Song
     
   end
   
+<<<<<<< HEAD
   def artist_name
     
     if self.artist == nil
@@ -21,6 +22,8 @@ class Song
     
   end
   
+=======
+>>>>>>> 45df87706050dc3e831cf44747cdb397af31966e
   def save
     
     @@all << self
